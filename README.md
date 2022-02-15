@@ -5,11 +5,11 @@
   <b>𝙻2_𝙴𝙼𝙿𝚄𝚁𝙰𝙰𝙽 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/Samantha-a/Film-Club?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/stargazers)
-[![Forks](https://img.shields.io/github/forks/Samantha-a/Film-Club?style=flat-square&color=blue)](https://github.com/Samantha-a/Film-Club/fork)
-[![Size](https://img.shields.io/github/repo-size/Samantha-a/Film-Club?style=flat-square&color=red)](https://github.com/Samantha-a/Film-Club/)   
+[![Stars](https://img.shields.io/github/stars/Cutozki/Empuran?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/stargazers)
+[![Forks](https://img.shields.io/github/forks/Cutozki/Empuran?style=flat-square&color=blue)](https://github.com/Samantha-a/Film-Club/fork)
+[![Size](https://img.shields.io/github/repo-size/Cutozki/Empuran?style=flat-square&color=red)](https://github.com/Samantha-a/Film-Club/)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Samantha-a/Film-Club)   
-[![Contributors](https://img.shields.io/github/contributors/Samantha-a/Film-Club?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/Cutozki/Empuran?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
@@ -47,7 +47,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Samantha-a/L2Empuraan">
+<a href="https://heroku.com/deploy?template=https://github.com/Cutozki/Empuran">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
