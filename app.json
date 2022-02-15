@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Samantha-a/Film-Club",
-    "repository": "https://github.com/Samantha-a/Film-Club",
+    "website": "https://github.com/Cutozki/Empuran",
+    "repository": "https://github.com/Cutozki/Empuran",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
